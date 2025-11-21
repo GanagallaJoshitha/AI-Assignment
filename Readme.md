@@ -74,7 +74,4 @@ This makes the project AI-assisted, not AI-generated — the final result is cra
 | Enhancement | Vanilla JavaScript (menu toggle) |
 | Version Control | Git & GitHub |
 
----
-
-## 📂 Project Structure
 
